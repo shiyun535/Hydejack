@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              XinLei66
-  email:             3032119585@qq.com
+  name:              shiyun535
+  email:             33714197896@qq.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -23,8 +23,8 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     #twitter:         <username>
-    github:          XinLei66
-    email:           3032119585@qq.com
+    github:          shiyun535
+    email:           33714197896@qq.com
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>

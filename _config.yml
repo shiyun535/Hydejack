@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://XinLei66.github.io
+url:                   https://shiyun535.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -12,7 +12,7 @@ url:                   https://XinLei66.github.io
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               ''
+baseurl:               /Hydejack
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
@@ -40,18 +40,18 @@ logo:          /assets/icons/cat.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name: LeiXin
-  email: 3032119585@qq.com
+  name: Shiyun
+  email: 33714197896@qq.com
   picture: /assets/icons/cat.jpg
   social:
-    github:           XinLei66
-    email:            3032119585@qq.com
+    github:           shiyun535
+    email:            33714197896@qq.com
   #  rss:              http://news.ifeng.com/rss/index.xml
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 social:
-    email:   3032119585@qq.com
-    github:  XinLei66
+    email:   33714197896@qq.com
+    github:  shiyun535
   #  rss:     http://news.ifeng.com/rss/index.xml
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:       BUFF  
