@@ -19,7 +19,7 @@ baseurl:               /Hydejack
 lang:                  zh-cn
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Shiyun's Homepage
+title:                 ShiYun's Homepage
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -54,8 +54,8 @@ social:
     github:  shiyun535
   #  rss:     http://news.ifeng.com/rss/index.xml
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:       BUFF  
-  © 2018. All rights reserved.
+#copyright:       BUFF  
+#  © 2018. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
